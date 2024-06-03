@@ -3,4 +3,6 @@ HelloGit
 
 this is a test file for git
 
-new test branch checkout second 
+new test branch checkout second
+
+test branch keep going
